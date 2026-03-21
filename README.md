@@ -1,2 +1,1 @@
-# What´s up, Nahum Carpio here
-## Software Engineer | Full-stack developer | ADS student
+## what´s up, i´m Nahum Carpio
