@@ -13,5 +13,5 @@
 <br>
 
 
- [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nahumvrz&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Nahumvrz&show_icons=true&include_all_commits=true&theme=transparent)
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nahumvrz&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Nahumvrz&show_icons=true&include_all_commits=true&theme=transparent) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Nahumvrz&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Nahumvrz&langs_count=4&theme=transparent) 
